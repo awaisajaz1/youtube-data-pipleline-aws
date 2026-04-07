@@ -1,0 +1,1 @@
+aws s3 cp CAVideos.csv s3://bronze-youtube-analytics-2026/youtube/raw/region=ca/
